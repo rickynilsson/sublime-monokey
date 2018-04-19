@@ -27,7 +27,7 @@ This project began as a fork of Monokai Extended with the goal of creating a use
 
 ### Examples
 
-![alt text](../blob/master/Monokey_screen.png)
+![alt text](../master/Monokey_screen.png)
 
 ## Author
 
