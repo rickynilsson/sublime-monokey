@@ -25,9 +25,11 @@ In Sublime Text, go to `Preferences -> Color Scheme -> User -> Monokey`.
 
 This project began as a fork of Monokai Extended with the goal of creating a useful light theme with a color scheme for coding elements that make sense and are easy on the eyes.
 
-### Examples
+### Example
 
 ![alt text](../master/Monokey_screen.png)
+
+The theme used in this example is Material-Theme-Lighter.sublime-theme with blue accent color.
 
 ## Author
 
