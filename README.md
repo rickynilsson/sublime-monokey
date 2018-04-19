@@ -41,7 +41,7 @@ The theme used in this example is Material-Theme-Lighter.sublime-theme with blue
 
 ## License & Copyright
 
-[MIT License](LICENSE-MIT)
+[MIT License](LICENSE)
 
 *Copyright (c) 2018 Ricky Nilsson*
 
